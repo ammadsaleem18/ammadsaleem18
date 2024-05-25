@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Web and Mobile App Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
 - 👨‍💻 All of my projects are available on **[My Github Profile](https://github.com/ammadsaleem15)**
   
 - 🔭 Check out My Last Project: **[Todo List App](https://github.com/ammadsaleem15/Todo-List)**
