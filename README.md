@@ -4,7 +4,7 @@ Hi 👋, I'm Ammad, a web and mobile app developer exploring the tech world. Rig
 
 ## My Projects & Discoveries:
 
-- 👨‍💻 All of my projects are available on **[My Github Profile](https://github.com/ammadsaleem18)**
+- 👨‍💻 All of my projects are available on **[My Github Profile](https://github.com/ammadsaleem18?tab=repositories)**
   
 - 🔭 Check out My Last Project: **[Todo List App](https://github.com/ammadsaleem18/Todo-List)**
 
