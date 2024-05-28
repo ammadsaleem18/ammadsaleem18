@@ -8,7 +8,7 @@ Hi 👋, I'm Ammad, a web and mobile app developer exploring the tech world. Rig
   
 - 🔭 Check out My Last Project: **[Todo List App](https://github.com/ammadsaleem18/Todo-List)**
 
-- 🌱 I’m currently learning **React Native !!!**
+- 🌱 I’m currently learning **React.js !!!**
 
 - 📫 How to reach me **ammadsaleem2006@gmail.com**
 
