@@ -12,7 +12,7 @@ Hi 👋, I'm Ammad, a web and mobile app developer exploring the tech world. Rig
 
 - 📫 How to reach me **ammadsaleem2006@gmail.com**
 
-- 🧑‍🏫 My Teacher --> **[AhmedrAshraf](https://github.com/AhmedrAshraf)**
+- 🧑‍🏫 My Teacher: **[AhmedrAshraf](https://github.com/AhmedrAshraf)**
 
 - ⚡ Fun fact **I think I am funny 😉**
 
