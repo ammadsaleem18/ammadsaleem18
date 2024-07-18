@@ -19,4 +19,4 @@ Hi 👋, I'm Ammad, a web and mobile app developer exploring the tech world. Rig
 ![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs,github,bootstrap,tailwind,ps,figma)
 
 ## Connect with me:
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedrashraf)
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ammadsaleem18)
