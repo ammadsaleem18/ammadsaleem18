@@ -18,9 +18,5 @@ Hi 👋, I'm Ammad, a web and mobile app developer exploring the tech world. Rig
 ## Skills:
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,github,bootstrap,tailwind,ps,figma)
 
-## My Github Overview:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammadsaleem18&show_icons=true&locale=en&layout=compact" alt="ammadsaleem18" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammadsaleem18&show_icons=true" alt="ammadsaleem18" />
-
 ## Connect with me:
-<a href="https://github.com/ammadsaleem15" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/github-light-icon-2048x1998-m3c0rgap.png" alt="ammadsaleem15" height="40" width="40" /></a>
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedrashraf)
