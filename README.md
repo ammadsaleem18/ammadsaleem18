@@ -16,7 +16,7 @@ Hi 👋, I'm Ammad, a web and mobile app developer exploring the tech world. Rig
 - ⚡ Fun fact **I think I am funny 😉**
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs,github,bootstrap,tailwind,ps,figma,git,ts,ai)
+![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs,github,bootstrap,tailwind,ps,figma,git,ts,ai,firebase,androidstudio,bun,nextjs,vscode)
 
 ## Connect with me:
 [![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ammadsaleem18)
