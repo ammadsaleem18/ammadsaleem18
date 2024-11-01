@@ -1,6 +1,6 @@
 # Ammad Saleem
 
-Hi 👋, I'm Ammad, a web and mobile app developer exploring the tech world. Right now, I know HTML, CSS, and JavaScript well, and I'm starting to learn React.js. I'm taking a course at SMIT (Saylani Mass IT Training) to improve my skills and get rid of any unnecessary stuff. Let's work on cool projects together!
+Hello 👋, I'm Ammad, a passionate web and mobile app developer with a strong foundation in HTML, CSS, JavaScript, and React. Currently, I’m expanding my expertise into React Native and advancing my skills through the SMIT (Saylani Mass IT Training) program. I’m always looking to collaborate on innovative projects—let’s create something remarkable together!
 
 ## My Projects & Discoveries:
 
